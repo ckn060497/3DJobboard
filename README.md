@@ -9,4 +9,4 @@ Small playground to test job website Frontend
 ## How to use
 Its hosted using github pages here
 
-https://ckn060497.github.io/3DJobboard/3djob.html
+https://ckn060497.github.io/3DJobboard/3djobs.html
